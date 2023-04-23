@@ -1,0 +1,32 @@
+Country_ID,Region,Currency,Currency_abbreviation
+1,United States,US Dollar,USD
+2,Japan,Japanese Yen,JPY
+3,United Kingdom,Pound Sterling,GBP
+4,Hong Kong,Hong Kong Dollar,HKD
+5,Switzerland,Swiss Franc,CHF
+6,Canada,Canadian Dollar,CAD
+7,Singapore,Singapore Dollar,SGD
+8,Australia,Australian Dollar,AUD
+9,Bahrain,Bahrain Dinar,BHD
+10,Saudi Arabia,Saudi Rial,SAR
+11,Brunei,Brunei Dollar,BND
+12,Indonesia,Indonesian Rupiah,IDR
+13,Thailand,Thai Baht,THB
+14,UAE,UAE Dirham,AED
+15,Europeean Union,Euro,EUR
+16,South Korea,S. Korean Won,KRW
+17,China,Chinese Yuan,CNY
+18,Brazil,Brazilian Real,BRL
+19,Argentina,Argentinian Peso,ARS
+20,Denmark,Danish Krone,DKK
+21,India,Indian Rupee,INR
+22,Malaysia,Malaysian Ringgit,MYR
+23,Mexico,Mexican New Peso,MXN
+24,New Zealand,New Zealand Dollar,NZD
+25,Norway,Norwegian Krone,NOK
+26,Pakistan,Pakistani Rupee,PKR
+27,South Africa,S. African Rand,ZAR
+28,Sweden,Swedish Krona,SEK
+29,Syria,Syrian Pound,SYP
+30,Taiwan,New Taiwan Dollar,TWD
+31,Venezuela,Venezuelan Bolivar,VEB
